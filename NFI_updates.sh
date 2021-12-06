@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ROOT_PATH=""
-NFI_PATH="${ROOT_PATH}/NostalgiaForInfinity/NostalgiaForInfinityNext.py"
-FT_PATH="${ROOT_PATH}/freqtrade/user_data/strategies/NostalgiaForInfinityNext.py"
+NFI_PATH="${ROOT_PATH}/NostalgiaForInfinity/NostalgiaForInfinityX.py"
+FT_PATH="${ROOT_PATH}/freqtrade/user_data/strategies/NostalgiaForInfinityX.py"
 TG_TOKEN=""
 TG_CHAT_ID=""
 GIT_URL="https://github.com/iterativv/NostalgiaForInfinity"
